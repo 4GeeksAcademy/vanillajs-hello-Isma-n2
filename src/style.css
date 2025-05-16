@@ -1,5 +1,10 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+body {
+  background: white;
 }
+
+#excuse {
+  /* fs-5 y fst-italic vienen de Bootstrap */
+}
+
